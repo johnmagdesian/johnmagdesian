@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johnmagdesian
 - 👀 I’m interested in ...Computer Science, Psychology, Biology/Chemistry, and Finance
 - 🌱 I’m currently learning ...C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Learning
 - 📫 How to reach me ...
 
 <!---
